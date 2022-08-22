@@ -57,7 +57,7 @@
 ---
 ### 4. [MySpartaSns](https://github.com/hangunhee94/mySpartaSns)
 >나만의 미니 SNS 웹페이지 (개인 프로젝트)  
->개발기간 : 2022.5.30 ~ 2022.5.31     
+>개발기간 : 2022.5.28 ~ 2022.5.31     
 >  
 >기술 스택:  
 >Django / HTML / CSS /   

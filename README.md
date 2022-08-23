@@ -77,7 +77,7 @@
 >[프로젝트 상세 설명](https://github.com/hangunhee94/object-detection-backend) 참고
 
 ---
-### 5. [Team Introduction](https://github.com/hangunhee94/team-introduction)
+### 6. [Team Introduction](https://github.com/hangunhee94/team-introduction)
 >나의 팀원을 소개합니다! (팀 프로젝트)  
 >개발기간 : 2022.4.20 ~ 2022.4.22     
 >개발 인원 : 4인   

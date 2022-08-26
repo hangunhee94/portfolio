@@ -11,7 +11,7 @@
 </br>
 
 ## 🎯 Contact
-- 이메일: kokosky94@naver.com
+- 이메일: heehee9422@gmail.com
 - 블로그: https://hee94.tistory.com
 - 깃헙: https://github.com/hangunhee94
 
@@ -37,8 +37,7 @@
 >개발 인원 : 4인   
 >  
 >기술 스택:  
->Django / DRF / HTML / CSS / JavaScript     
->NST    
+>Django / DRF / NST / HTML / CSS / JavaScript      
 >  
 >[프로젝트 상세 설명](https://github.com/hangunhee94/ai_museum_backend) 참고
 
@@ -49,8 +48,7 @@
 >개발 인원 : 4인   
 >  
 >기술 스택:  
->Django / HTML / CSS / JavaScript    
->기술 / 기술 / 기술 / 기술  
+>Django / MongoDB / JavaScript / HTML / CSS /       
 >  
 >[프로젝트 상세 설명](https://github.com/hangunhee94/ladder_to_wine) 참고
 
@@ -71,7 +69,7 @@
 >개발 인원 : 4인   
 >  
 >기술 스택:  
->Django / HTML / CSS   
+>Flask / MongoDB / JavaScript / HTML / CSS /   
 >  
 >  
 >[프로젝트 상세 설명](https://github.com/hangunhee94/object-detection-backend) 참고
@@ -83,7 +81,7 @@
 >개발 인원 : 4인   
 >  
 >기술 스택:  
->Flask / HTML / CSS   
+>Flask / HTML / CSS /  
 >  
 >  
 >[프로젝트 상세 설명](https://github.com/hangunhee94/team-introduction) 참고
